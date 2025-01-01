@@ -1,13 +1,14 @@
 [![PyPI](https://img.shields.io/pypi/v/googlemaps.svg)](https://pypi.python.org/pypi/googlemaps)
 ![Release](https://github.com/googlemaps/google-maps-services-python/workflows/Release/badge.svg)
 ![Stable](https://img.shields.io/badge/stability-stable-green)
-[![Tests/Build Status](https://github.com/googlemaps/google-maps-services-python/actions/workflows/test.yml/badge.svg)](https://github.com/googlemaps/google-maps-services-python/actions/workflows/test.yml)
+[![Tests/Build](https://github.com/googlemaps/google-maps-services-python/actions/workflows/test.yml/badge.svg)](https://github.com/googlemaps/google-maps-services-python/actions/workflows/test.yml)
+
 [![codecov](https://codecov.io/gh/googlemaps/google-maps-services-python/branch/master/graph/badge.svg)](https://codecov.io/gh/googlemaps/google-maps-services-python)
 
-![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python?color=green)
-[![GitHub License](https://img.shields.io/github/license/googlemaps/google-maps-services-python?color=blue)][license]
-[![Discord](https://img.shields.io/discord/676948200904589322?color=6A7EC2&logo=discord&logoColor=ffffff)][Discord server]
+![Contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python?color=green)
+[![License](https://img.shields.io/github/license/googlemaps/google-maps-services-python?color=blue)][license]
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/t/google-maps?color=orange&label=google-maps&logo=stackoverflow)](https://stackoverflow.com/questions/tagged/google-maps)
+[![Discord](https://img.shields.io/discord/676948200904589322?color=6A7EC2&logo=discord&logoColor=ffffff)][Discord server]
 
 # Python Client for Google Maps Services
 
@@ -28,10 +29,10 @@ TODO ? Address Validation API
 
 ## Requirements
 
-* [Sign up with Google Maps Platform]
-* A Google Maps Platform [project] with the desired API(s) from the above list enabled
-* An [API key] associated with the project above
-* Python 3.5+
+- [Sign up with Google Maps Platform]
+- A Google Maps Platform [project] with the desired API(s) from the above list enabled
+- An [API key] associated with the project above
+- Python 3.5+
 
 ## API Key Security
 
@@ -145,7 +146,7 @@ You can also discuss this library on our [Discord server].
 [API key]: https://developers.google.com/maps/documentation/javascript/get-api-key
 [documentation]: https://googlemaps.github.io/google-maps-services-python/docs
 
-[code of conduct]: CODE_OF_CONDUCT.md
+[code of conduct]: ?tab=coc-ov-file#readme
 [contributing guide]: CONTRIB.md
 [Deprecation Policy]: https://cloud.google.com/maps-platform/terms
 [developer community channels]: https://developers.google.com/maps/developer-community
