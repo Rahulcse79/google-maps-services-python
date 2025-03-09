@@ -14,7 +14,7 @@
 
 ## Description
 
-Use Python? Want to [geocode][Geocoding API] something? Looking for [directions][Directions API]? This client library brings the following [Google Maps Web Services APIs] to your server-side Python applications:
+Use Python? Want to [geocode][Geocoding API] something? Looking for [directions][Directions API]? This client library brings the following [Google Maps Platform Web Services APIs] to your server-side Python applications:
 
 - [Maps Static API]
 - [Directions API]
